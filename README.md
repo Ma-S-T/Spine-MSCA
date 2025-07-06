@@ -6,6 +6,7 @@
 |-----|-----|-----|-----|-----|
 | Number | 426 | 326 |50 |50 |
 | Sex ratio(man) | 40% | 39% |38% |44% |
+| [Download]() | [Download] ()| [Download]() |[Download]() |[Download]() |
 
 # 标签
 | label | 解释 | 
