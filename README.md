@@ -7,7 +7,7 @@ The data has been structured in the following manner and is available for downlo
 | Quantity | 426 | 326 |50 |50 |
 | Sex ratio(man) | 40% | 39% |38% |44% |
 | Name | | Train.zip.001(2,3) |Vail.zip |Test.zip |
-
+| Download | | Train.zip.001(2,3) |Vail.zip |[Test](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Test.zip) |
 # Data Description
 Each data point consists of img.pt and label.pt, as explained in detail below:
 | Key | Dimension |Description|
