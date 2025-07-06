@@ -1,14 +1,14 @@
 # Spine-MSCA
 The dataset is accompanied by a set of labels that indicate the regions of interest in the images. It contains a total of 426 lumbar T2 sagittal MRI images, each from a different patient. The resolution was uniformly adjusted to 512x512 using linear interpolation, and the intensity was uniformly adjusted to [0,1] using a normalisation method. The data format is designated as .pt, and each dataset comprises one original image and labelled annotations (the annotated regions correspond to the lumbar vertebrae L1-L5, intervertebral discs D1-D5, and sacrum S1).
-# Data composition
+# Data composition and download
 The data has been structured in the following manner and is available for download as required.
 |  | All | Train data |Vali data|Test data|
 |-----|-----|-----|-----|-----|
 | Quantity | 426 | 326 |50 |50 |
 | Sex ratio(man) | 40% | 39% |38% |44% |
 | Name | | Train.zip.001(2,3) |Vail.zip |Test.zip |
-| Download | | Train.zip.001(2,3) |Vail.zip |[Test](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Test.zip) |
-# Data Description
+| Download | | [Train1](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.001),[Train2](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.002) ,[Train3](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.003)|[Vail](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Vail.zip) |[Test](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Test.zip) |
+# Data description 
 Each data point consists of img.pt and label.pt, as explained in detail below:
 | Key | Dimension |Description|
 |-----|-----|-----|
