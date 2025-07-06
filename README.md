@@ -16,9 +16,9 @@ Each data point consists of img.pt and label.pt, as explained in detail below:
 | label.pt | 1x512x512 | Label Map |
 # Label
 The numerals 1-11 (with 0 serving as the background) are employed to denote distinct cone blocks, as explained in detail below:
-| label | 解释 | 
+| Label | Explanation | 
 |-----|-----|
-| 0 | 背景 | 
+| 0 | background | 
 | 1 | L1 | 
 | 2 | L2 | 
 | 3 | L3 | 
