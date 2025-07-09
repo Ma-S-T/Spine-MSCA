@@ -35,3 +35,5 @@ The numerals 1-11 (with 0 serving as the background) are employed to denote dist
 ![标签](https://github.com/user-attachments/assets/f0c17171-ee40-4124-ad68-1f77ec17a9c9)
 # Usage
 The installation of PyTorch is required, along with the utilisation of statements such as torch.load() for the purpose of viewing data attributes,and use statements such as plt.show() to generate image examples.
+# Contact
+send an email to the ma17866709638@163.com for further assistance.
